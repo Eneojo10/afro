@@ -9,7 +9,7 @@ function Hamburger() {
       <div className='menu-head'>
         <div>
           <div className='image-afro'>
-            <h2>AFRO MERIDIAN FOOTBALL CLUB</h2>
+            <h5>AFRO MERIDIAN FOOTBALL CLUB</h5>
           </div>
           <br />
           <div className='line-under-ham '></div>
